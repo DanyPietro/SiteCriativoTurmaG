@@ -70,6 +70,10 @@ body{
     padding: 30px 0;
 }
 
+.estudante{
+    background-color: bisque;
+}
+
 .estudante-todos{
     display: grid;
     grid-template-columns: 25% 25% 25% 25% 25%;
