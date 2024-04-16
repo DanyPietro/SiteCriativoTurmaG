@@ -70,3 +70,6 @@ body{
     padding: 30px 0;
 }
 
+.estudante-todos{
+    display: grid;
+}
